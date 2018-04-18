@@ -8,8 +8,4 @@
 
     const bool momentumPredictor =
         pimple.lookupOrDefault("momentumPredictor", true);
-
-    const bool PEqnOldMethod =
-        pimple.lookupOrDefault("PEqnOldMethod", false);
-        
         
